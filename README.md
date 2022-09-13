@@ -21,9 +21,9 @@ This python project utilizes tkinter's *notebook* widget to create three tabs th
 
 * db_main.py - The main program that imports packages, sets up variables, and creates functions.
 * db_config.py - The python file that has the attributes required to connect to the database. 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+## 
+## 
+## 
+## 
+## 
 This project file can be found at:  https://www.homeandlearn.uk/python-database-connect.html
